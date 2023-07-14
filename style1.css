@@ -1,0 +1,29 @@
+h3{
+    height: auto;
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+#red{
+    color:red;
+}
+#green{
+    color:green;
+}
+#blue{
+    color:blue;
+}
+#orange{
+    color:orange;
+}
+#yellow{
+    color: yellow;
+}
+.w{
+    color: blueviolet;
+}
+a[href]{
+    color: coral;
+}

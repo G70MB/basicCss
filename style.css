@@ -1,0 +1,33 @@
+h3{
+    height: auto;
+    background: pink;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+#red{
+    color:red;
+}
+#green{
+    color:green;
+}
+#blue{
+    color:blue;
+}
+#orange{
+    color:orange;
+}
+#yellow{
+    color: yellow;
+}
+*{
+    text-align: center;
+}
+.w{
+    color:wheat;
+}
+a[href]{
+    color: coral;
+    background:rgb(208, 255, 114);
+}
